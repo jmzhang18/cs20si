@@ -38,7 +38,7 @@ def prediction(x):
   #############################
   pass
 
-# Define loss functions of the form: L(y, y_predicted)
+# Define loss functions of the form: L(y, y_preqdicted)
 def squared_loss(y, y_predicted):
   #############################
   ########## TO DO ############
